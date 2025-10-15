@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">👋 ¡Hola! Soy Erik Eckell</h1>
 <h3 align="center">🎓 Estudiante de Ingeniería Civil en Ciencias de la Computación en la Universidad de los Andes</h3>
 
