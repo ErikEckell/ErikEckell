@@ -13,19 +13,18 @@
 
 ### 🛠️ Technologies & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,react,html,css,rails,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,react,html,css,rails,github,linux,vscode,docker" />
 </p>
 
 ---
-<!--
+
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErikEckell&show_icons=true&theme=tokyonight" alt="stats" height="165" />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=ErikEckell&show_icons=true&theme=tokyonight" alt="stats" height="165" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikEckell&layout=compact&theme=tokyonight" alt="languages" height="165" />
 </p>
 
 ---
--->
 
 ### 🌐 Contact
 <p align="center">
