@@ -17,7 +17,7 @@
 </p>
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -34,7 +34,7 @@
 </p>
 
 ---
-
+-->
 ### 🌐 Contact
 <p align="center">
   <a href="mailto:epeckell@miuandes.cl">
